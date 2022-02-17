@@ -48,6 +48,20 @@
       "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLmFwcHNvbW5pYWNzLmRhMl9pY29uXzE2MDczMTE3ODFfMDgz/icon.png?w=170&fakeurl=1",
       "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
       "official_cheat": true
+    },
+    {
+      "game_name": "Shadow Fight 2",
+      "game_package": "com.nekki.shadowfight",
+      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLm5la2tpLnNoYWRvd2ZpZ2h0X2ljb25fMTY0Mzc1NTEwMl8wMTA/icon.png?w=170&fakeurl=1",
+      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
+      "official_cheat": true
+    },
+    {
+      "game_name": "Zombie Tsunami",
+      "game_package": "net.mobigame.zombietsunami",
+      "game_logo_path": "https://image.winudf.com/v2/image1/bmV0Lm1vYmlnYW1lLnpvbWJpZXRzdW5hbWlfaWNvbl8xNTUyNTgxMTE4XzA0Nw/icon.png?w=170&fakeurl=1",
+      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
+      "official_cheat": true
     }
   ]
 }
