@@ -20,6 +20,34 @@
       "game_logo_path": "https://connect-prd-cdn.unity.com/20200217/p/images/3dd7646a-42a8-40f6-b958-91875ac9f384_NewAppIconBF.png",
       "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
       "official_cheat": true
+    },
+    {
+      "game_name": "Roblox",
+      "game_package": "com.roblox.client",
+      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLnJvYmxveC5jbGllbnRfaWNvbl8xNjM3MzY1MTA3XzA5Mw/icon.png?w=170&fakeurl=1",
+      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
+      "official_cheat": true
+    },
+    {
+      "game_name": "Subway Surfers",
+      "game_package": "com.kiloo.subwaysurf",
+      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLmtpbG9vLnN1YndheXN1cmZfaWNvbl8xNjQ0NDEwODQ3XzA3Mg/icon.png?w=170&fakeurl=1",
+      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
+      "official_cheat": true
+    },
+    {
+      "game_name": "8 Ball Pool",
+      "game_package": "com.miniclip.eightballpool",
+      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLm1pbmljbGlwLmVpZ2h0YmFsbHBvb2xfaWNvbl8xNTYxMzk3MjU5XzAyOQ/icon.png?w=170&fakeurl=1",
+      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
+      "official_cheat": true
+    },
+    {
+      "game_name": "Mini Militia",
+      "game_package": "com.appsomniacs.da2",
+      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLmFwcHNvbW5pYWNzLmRhMl9pY29uXzE2MDczMTE3ODFfMDgz/icon.png?w=170&fakeurl=1",
+      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
+      "official_cheat": true
     }
   ]
 }
