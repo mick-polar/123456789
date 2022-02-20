@@ -1,66 +1,17 @@
 {
   "results": [
     {
-      "game_name": "Hide Online",
-      "game_package": "com.hitrock.hideonline",
-      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLmhpdHJvY2suaGlkZW9ubGluZV9pY29uXzE2MTc0MzQ5ODZfMDQ0/icon.png?w=170&fakeurl=1",
-      "game_cheat_info": "Speed Hack\nJump Hack\nInfinite Ammo\nInfinite Grenades\nInfinite Taunts\nAnd More..",
+      "game_name": "Call of Duty: Mobile",
+      "game_package": "com.activision.callofduty.shooter",
+      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLmFjdGl2aXNpb24uY2FsbG9mZHV0eS5zaG9vdGVyX2ljb25fMTYzNzA0NjEyOF8wMDc/icon.png?w=170&fakeurl=1",
+      "game_cheat_info": "Call of Duty: Mobile Cheat Information\n\n Aimbot Mods\n- FoV Check\n- Show FoV\n- Aim Smoothener\n- Aim Check\n- Shoot Check\n- FoV Size Modifier\n\n Enemy ESP\n- Snap Lines\n- Distance Text\n- Health Bar\n- 360 Alert\n- Bounding Box [2d/3d]\n\n Team ESP\n- Snap Lines\n- Distance Text\n- Health Bar\n- 360 Alert\n- Bounding Box [2d/3d]",
       "official_cheat": true
     },
     {
-      "game_name": "1v1.LOL",
-      "game_package": "lol.onevone",
-      "game_logo_path": "https://image.winudf.com/v2/image1/bG9sLm9uZXZvbmVfaWNvbl8xNjQ0NDg0ODY4XzAzNA/icon.png?w=170&fakeurl=1",
-      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
-      "official_cheat": true
-    },
-    {
-      "game_name": "Bullet Force",
-      "game_package": "com.blayzegames.iosfps",
-      "game_logo_path": "https://connect-prd-cdn.unity.com/20200217/p/images/3dd7646a-42a8-40f6-b958-91875ac9f384_NewAppIconBF.png",
-      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
-      "official_cheat": true
-    },
-    {
-      "game_name": "Roblox",
-      "game_package": "com.roblox.client",
-      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLnJvYmxveC5jbGllbnRfaWNvbl8xNjM3MzY1MTA3XzA5Mw/icon.png?w=170&fakeurl=1",
-      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
-      "official_cheat": true
-    },
-    {
-      "game_name": "Subway Surfers",
-      "game_package": "com.kiloo.subwaysurf",
-      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLmtpbG9vLnN1YndheXN1cmZfaWNvbl8xNjQ0NDEwODQ3XzA3Mg/icon.png?w=170&fakeurl=1",
-      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
-      "official_cheat": true
-    },
-    {
-      "game_name": "8 Ball Pool",
-      "game_package": "com.miniclip.eightballpool",
-      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLm1pbmljbGlwLmVpZ2h0YmFsbHBvb2xfaWNvbl8xNTYxMzk3MjU5XzAyOQ/icon.png?w=170&fakeurl=1",
-      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
-      "official_cheat": true
-    },
-    {
-      "game_name": "Mini Militia",
-      "game_package": "com.appsomniacs.da2",
-      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLmFwcHNvbW5pYWNzLmRhMl9pY29uXzE2MDczMTE3ODFfMDgz/icon.png?w=170&fakeurl=1",
-      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
-      "official_cheat": true
-    },
-    {
-      "game_name": "Shadow Fight 2",
-      "game_package": "com.nekki.shadowfight",
-      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLm5la2tpLnNoYWRvd2ZpZ2h0X2ljb25fMTY0Mzc1NTEwMl8wMTA/icon.png?w=170&fakeurl=1",
-      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
-      "official_cheat": true
-    },
-    {
-      "game_name": "Zombie Tsunami",
-      "game_package": "net.mobigame.zombietsunami",
-      "game_logo_path": "https://image.winudf.com/v2/image1/bmV0Lm1vYmlnYW1lLnpvbWJpZXRzdW5hbWlfaWNvbl8xNTUyNTgxMTE4XzA0Nw/icon.png?w=170&fakeurl=1",
-      "game_cheat_info": "-> Speed Hack\n-> Jump Hack\n->GodMode\n->Inf Ammo\n-> More :D",
+      "game_name": "Pixel Gun 3D",
+      "game_package": "com.pixel.gun3d",
+      "game_logo_path": "https://image.winudf.com/v2/image1/Y29tLnBpeGVsLmd1bjNkX2ljb25fMTYzNzY3NzcxOV8wNTA/icon.png?w=170&fakeurl=1",
+      "game_cheat_info": "Pixel Gun 3D Cheat Information\n\n Aimbot Mods\n- FoV Check\n- Show FoV\n- Aim Smoothener\n- Aim Check\n- Shoot Check\n- FoV Size Modifier\n\n Enemy ESP\n- Snap Lines\n- Distance Text\n- Health Bar\n- 360 Alert\n- Bounding Box [2d/3d]\n\n Team ESP\n- Snap Lines\n- Distance Text\n- Health Bar\n- 360 Alert\n- Bounding Box [2d/3d]",
       "official_cheat": true
     }
   ]
